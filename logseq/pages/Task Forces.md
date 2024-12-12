@@ -1,3 +1,5 @@
+public:: true
+
 - THETA-1 "ANTIMORALS"
   background-color:: pink
   collapsed:: true

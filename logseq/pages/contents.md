@@ -1,2 +1,4 @@
-### [[About us]]
+public:: true
+
+- ### [[About us]]
 - ### [[Task Forces]]
